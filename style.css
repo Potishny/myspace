@@ -1,0 +1,50 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-size: 48px;
+    color: darkslategray;
+}
+
+h2{
+    font-size: 24px;
+    color: darkslategray;
+}
+
+p{
+    font-size: 22px;
+    background-color: beige;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+ul{
+    font-size: 24px;
+    background-color:rgb(220, 230, 240);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+li{
+    margin-top: 5px;
+    font-size: 24px;
+}
+
+a{
+    font-size: 24px;
+    color: blueviolet;
+}
+
+div{
+    font-size: 24px;
+    background-color:rgb(220, 230, 240);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
