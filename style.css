@@ -25,38 +25,25 @@ p:hover{
     border: 2px solid grey;
 }
 
-ul{
-    font-size: 24px;
-    background-color:rgb(220, 230, 240);
-    margin-top: 20px;
-    margin-bottom: 20px;
-    margin-left: 20px;
-    margin-right: 20px;
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1232px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration: none;
 }
 
-ol{
-    font-size: 24px;
-    background-color:rgb(220, 230, 240);
-    margin-top: 20px;
-    margin-bottom: 20px;
-    margin-left: 20px;
-    margin-right: 20px;
+.nav{
+    list-style: none;
+    padding-left: 0px;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
 }
 
-li{
-    margin-top: 5px;
-    font-size: 24px;
-}
-
-a{
-    font-size: 24px;
-    color: blueviolet;
-}
-
-div{
-    font-size: 24px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    margin-left: 20px;
-    margin-right: 20px;
+.nav__btn{
+    text-decoration: none;
+    margin-left: 5px;
 }
