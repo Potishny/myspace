@@ -21,6 +21,10 @@ p{
     margin-right: 20px;
 }
 
+p:hover{
+    border: 2px solid grey;
+}
+
 ul{
     font-size: 24px;
     background-color:rgb(220, 230, 240);
